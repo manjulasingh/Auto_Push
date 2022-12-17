@@ -5,7 +5,7 @@ pipeline {
         stage('Hello World') {
             steps {
                 echo 'Hello World'
-                echo 'Adding for Auto-Push'
+                echo 'Adding for Auto-Push!'
             }
         }
     }
